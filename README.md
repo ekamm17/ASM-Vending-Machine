@@ -33,15 +33,15 @@ If cancel is not pressed, the machine checks if the total amount is greater than
 
 ## Verilog Design Code
 
-![design](images/design1.png)
-![design](images/design2.png)
-![design](images/design3.png)
-![design](images/design4.png)
+![design1](images/design1.png)
+![design2](images/design2.png)
+![design3](images/design3.png)
+![design4](images/design4.png)
 
 ## Testbench
-![tb](images/test1.png)
-![tb](images/test2.png)
-![tb](images/test3.png)
+![test1](images/test1.png)
+![test2](images/test2.png)
+![test3](images/test3.png)
 
 ## Waveform
 ![waveform](images/waveform.png)
