@@ -33,7 +33,7 @@ If cancel is not pressed, the machine checks if the total amount is greater than
 
 ## Verilog Design Code
 
-![design1](ASM-Vending-Machine/images/design1.png)
+![design1](images/design1.png)
 ![design2](images/design2.png)
 ![design3](images/design3.png)
 ![design4](images/design4.png)
